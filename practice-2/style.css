@@ -15,6 +15,7 @@
 	padding: 5px;
 	background: #efefef;
 	border: 1px solid #dddddd;
+	cursor: pointer;
 }
 .table__body {
     border: 1px solid #dddddd;
