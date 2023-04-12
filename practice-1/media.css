@@ -1,0 +1,46 @@
+@media (min-width: 320px) and (max-width: 800px) {
+    .content {
+        justify-content: unset;
+        height: auto;
+    }
+
+    .demand__title {
+        padding-right: 84px;
+    }
+    .tags {
+        width: 100% ;
+}
+.modal__box {
+    min-width: 310px;
+    padding: 25px 15px;
+    min-height: 1320px;
+}
+.title-h3 {
+    margin-top: 0;
+    margin-bottom: 165px;
+    max-width: 275px;
+    font-size: 25px;
+    text-align: center;
+    align-self: center;
+}
+.modal__input-short {
+    padding-top: 20px;
+    padding-left: 16px;
+    min-width: 100%;
+    height: 56px;
+    border: 1px solid var(--light-gray);
+    border-radius: 2px;
+}
+.modal__img {
+    left:30%;
+    top: 120px;
+}
+.modal__descr-img {
+    left:9px;
+}
+.modal__img-descr {
+    top:17px;
+    left: 20px;
+}
+}
+
