@@ -1,0 +1,29 @@
+.container {
+    min-width: 320px;
+    padding: 0 15px;
+    margin: 0 auto;
+}
+.table {
+	width: 100%;
+	margin-bottom: 20px;
+	border: 1px solid #dddddd;
+	border-collapse: collapse; 
+}
+
+.table__data {
+    font-weight: bold;
+	padding: 5px;
+	background: #efefef;
+	border: 1px solid #dddddd;
+}
+.table__body {
+    border: 1px solid #dddddd;
+	padding: 5px;
+}
+.search {
+  min-width: 60px; 
+  font-size: 16px; 
+  padding: 12px 20px 12px 40px; 
+  border: 1px solid #ddd; 
+  margin-bottom: 12px;
+}
